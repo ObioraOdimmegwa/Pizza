@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
         triggerElement: '.second-section',
         duration: '100%',
         triggerHook: 0,
-        offset: '100'
+        offset: '10'
     })
     .setTween(timeline2)
     .setPin('.second-section')
