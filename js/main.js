@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
         triggerElement: '.first-section',
         duration: '100%',
         triggerHook: 0,
-        offset: '300'
+        offset: '30'
     })
     .setTween(timeline)
     .setPin('.first-section')
